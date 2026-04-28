@@ -22,6 +22,12 @@ It demonstrates how a real-world shopping system manages customers and orders us
 * `ID` (Primary Key)
 * `NAME`
 
+  ### Products Table
+- PRODUCT_ID (Primary Key)
+- NAME
+- PRICE
+
+
 ###  Orders Table
 
 * `ORDER_ID` (Primary Key)
